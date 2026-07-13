@@ -9391,7 +9391,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
           chain: "Robinhood",
           links: {
             buy: i,
-            twitter: "https://x.com/toescoinsol",
+            twitter: "https://x.com/toesrobinhood",
           },
           nav: [
             { label: "Lore", href: "#about" },
